@@ -2,14 +2,14 @@
 A Python 3 and tensorflow 2.0 implementation of MobileNet V1 and V2.
 
 ## Requirement
-TensorFlow 2
-matplotlib==3.0.3
-numpy==1.16.2
-scipy==1.2.1
-Pillow==6.2.0
-graphviz==0.10.1
+* TensorFlow 2
+* matplotlib==3.0.3
+* numpy==1.16.2
+* scipy==1.2.1
+* Pillow==6.2.0
+* graphviz==0.10.1
 
-you can install tf2 by https://github.com/ageron/tf2_course
+** tips: you can install tf2 by https://github.com/ageron/tf2_course**
 
 ## MobileNet v1 and V2 architectures
 ### MobileNet v1
